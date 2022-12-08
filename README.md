@@ -41,7 +41,7 @@ The following image shows the web application's appearance and functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* https://mannyrveloz23.github.io/challenge-3-passwordgenenerator/
 
 * https://github.com/Mannyrveloz23/challenge-3-passwordgenenerator
 
